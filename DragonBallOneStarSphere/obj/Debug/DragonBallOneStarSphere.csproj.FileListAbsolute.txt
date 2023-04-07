@@ -1,0 +1,10 @@
+C:\Users\corag\source\repos\DragonBallOneStarSphere\bin\Debug\DragonBallOneStarSphere.exe.config
+C:\Users\corag\source\repos\DragonBallOneStarSphere\bin\Debug\DragonBallOneStarSphere.exe
+C:\Users\corag\source\repos\DragonBallOneStarSphere\bin\Debug\DragonBallOneStarSphere.pdb
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.Form1.resources
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.Properties.Resources.resources
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.exe
+C:\Users\corag\source\repos\DragonBallOneStarSphere\obj\Debug\DragonBallOneStarSphere.pdb

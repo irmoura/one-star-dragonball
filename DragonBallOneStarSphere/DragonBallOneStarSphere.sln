@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBallOneStarSphere", "DragonBallOneStarSphere.csproj", "{02F65E2E-24AF-4386-9639-ED566EF431C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F65E2E-24AF-4386-9639-ED566EF431C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F65E2E-24AF-4386-9639-ED566EF431C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F65E2E-24AF-4386-9639-ED566EF431C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F65E2E-24AF-4386-9639-ED566EF431C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7BBB60-B8C6-436E-908B-2C928EDCDF0A}
+	EndGlobalSection
+EndGlobal
